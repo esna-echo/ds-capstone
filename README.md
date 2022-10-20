@@ -1,3 +1,3 @@
 # ds-capstone
-#
-# Capstone Project for IBM Data Science Certification
+
+Capstone Project for IBM Data Science Certification
